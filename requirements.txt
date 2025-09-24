@@ -2,3 +2,5 @@ unstructured
 langchain
 langchain-community
 unstructured[all-docs]
+chromadb
+langchain-text-splitters
